@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+.navbar{
+    background-color: lavenderblush;
+}
+
+.quemsomosnos{
+    background-color: orchid;
+    color: purple;
+}
+.margin{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.comonostrabalhamos{
+    background-color: orchid;
+    margin-top: 50px;
+}
+.conteiner{
+    background-color: orchid;
+}
